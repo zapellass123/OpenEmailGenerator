@@ -11,5 +11,6 @@ Open Email Generator
 - [Hydeshy](https://github.com/ganutteam1)
 - [Cinta Lakie](https://github.com/ganutteam2)
 - [Muhamad Sadam](https://github.com/fajarmuhre)
+- [Qioku Lahdan](https://github.com/ganutteam3)
 
 <!-- prettier-ignore-end -->
