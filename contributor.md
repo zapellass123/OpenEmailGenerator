@@ -9,5 +9,6 @@ Open Email Generator
 - [Verrnando](https://github.com/gabutteam3b)
 - [Leviie](https://github.com/leviakeer212)
 - [Hydesh](https://github.com/ganutteam1)
+- [Cinta Lakie](https://github.com/ganutteam2)
 
 <!-- prettier-ignore-end -->
