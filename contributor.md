@@ -13,5 +13,6 @@ Open Email Generator
 - [Muhamad Sadam](https://github.com/fajarmuhre)
 - [Qioku Lahdan](https://github.com/ganutteam3)
 - [Pratika Hastari](https://github.com/ganutteam4)
+- [Roy](https://github.com/ehroy)
 
 <!-- prettier-ignore-end -->
