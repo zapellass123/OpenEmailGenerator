@@ -7,6 +7,7 @@ Open Email Generator
 - [Fajril Pratam](https://github.com/gabutteam18)
 - [Robby Rohmana](https://github.com/gabutteam3a)
 - [Verrnando](https://github.com/gabutteam3b)
+- [Leviie](https://github.com/leviakeer212)
 
 
 <!-- prettier-ignore-end -->
