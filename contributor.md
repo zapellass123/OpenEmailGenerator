@@ -8,6 +8,6 @@ Open Email Generator
 - [Robby Rohmana](https://github.com/gabutteam3a)
 - [Verrnando](https://github.com/gabutteam3b)
 - [Leviie](https://github.com/leviakeer212)
-
+- [Hydesh](https://github.com/ganutteam1)
 
 <!-- prettier-ignore-end -->
