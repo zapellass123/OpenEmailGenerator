@@ -10,5 +10,6 @@ Open Email Generator
 - [Leviie](https://github.com/leviakeer212)
 - [Hydeshy](https://github.com/ganutteam1)
 - [Cinta Lakie](https://github.com/ganutteam2)
+- [Muhamad Sadam](https://github.com/fajarmuhre)
 
 <!-- prettier-ignore-end -->
