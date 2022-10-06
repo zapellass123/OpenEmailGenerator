@@ -14,5 +14,6 @@ Open Email Generator
 - [Qioku Lahdan](https://github.com/ganutteam3)
 - [Pratika Hastari](https://github.com/ganutteam4)
 - [Roy](https://github.com/ehroy)
+- [Kevin Rivaldo Panggabean](https://github.com/krpauto)
 
 <!-- prettier-ignore-end -->
