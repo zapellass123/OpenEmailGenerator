@@ -15,5 +15,6 @@ Open Email Generator
 - [Pratika Hastari](https://github.com/ganutteam4)
 - [Roy](https://github.com/ehroy)
 - [Kevin Rivaldo Panggabean](https://github.com/krpauto)
+- [Mhd Arif Budiman](https://github.com/guebanget0?tab=repositories)
 
 <!-- prettier-ignore-end -->
