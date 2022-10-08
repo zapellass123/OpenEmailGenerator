@@ -9,6 +9,7 @@ Open Email Generator
 - [Verrnando](https://github.com/gabutteam3b)
 - [Leviie](https://github.com/leviakeer212)
 - [Hydeshy](https://github.com/ganutteam1)
+- [Deepesh](https://github.com/dikshansh17)
 - [Cinta Lakie](https://github.com/ganutteam2)
 - [Muhamad Sadam](https://github.com/fajarmuhre)
 - [Qioku Lahdan](https://github.com/ganutteam3)
