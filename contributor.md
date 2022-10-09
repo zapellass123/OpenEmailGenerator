@@ -17,5 +17,6 @@ Open Email Generator
 - [Roy](https://github.com/ehroy)
 - [Kevin Rivaldo Panggabean](https://github.com/krpauto)
 - [Mhd Arif Budiman](https://github.com/guebanget0?tab=repositories)
+- [Anugerah](https://github.com/syncos77)
 
 <!-- prettier-ignore-end -->
