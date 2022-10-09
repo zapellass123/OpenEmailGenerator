@@ -37,6 +37,7 @@ Open Email Generator
 - [Fathur](https://github.com/nrathome)
 - [Gbaa5](https://github.com/gabutteam5)
 - [Farna](https://github.com/farnahatafar)
+- [azminawwar](https://github.com/azminawwar)
 - [Najwan](https://github.com/najwannajmi330)
 
 <!-- prettier-ignore-end -->
