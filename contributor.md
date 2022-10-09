@@ -39,5 +39,6 @@ Open Email Generator
 - [Farna](https://github.com/farnahatafar)
 - [azminawwar](https://github.com/azminawwar)
 - [Najwan](https://github.com/najwannajmi330)
+- [Nafisna](https://github.com/nafisnafi776)
 
 <!-- prettier-ignore-end -->
