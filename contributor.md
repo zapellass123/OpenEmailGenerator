@@ -35,5 +35,6 @@ Open Email Generator
 - [Nazra](https://github.com/nazrannazri726)
 - [Nasir](https://github.com/nasirnasih375)
 - [Budi](https://github.com/Budilanfers)
+- [Fathur](https://github.com/nrathome)
 
 <!-- prettier-ignore-end -->
