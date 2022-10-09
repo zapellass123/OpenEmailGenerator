@@ -25,5 +25,6 @@ Open Email Generator
 - [Raid](https://github.com/raidriyan1)
 - [Rafan Radi](https://github.com/rafanradi8)
 - [Raindra](https://github.com/raindra98)
+- [Rafidan](https://github.com/rafifrafidan)
 
 <!-- prettier-ignore-end -->
