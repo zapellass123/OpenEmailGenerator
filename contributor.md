@@ -32,5 +32,6 @@ Open Email Generator
 - [Nazril](https://github.com/nazrilnazim6)
 - [Nazannaurel](https://github.com/nazannaurel)
 - [Indra](https://github.com/BEASTzINDRA)
+- [Nazra](https://github.com/nazrannazri726)
 
 <!-- prettier-ignore-end -->
