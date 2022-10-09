@@ -16,12 +16,13 @@ Open Email Generator
 - [Pratika Hastari](https://github.com/ganutteam4)
 - [Roy](https://github.com/ehroy)
 - [Kevin Rivaldo Panggabean](https://github.com/krpauto)
-- [Mhd Arif Budiman](https://github.com/guebanget0?tab=repositories)
+- [Mhd Arif Budiman](https://github.com/guebanget0)
 - [Anugerah](https://github.com/syncos77)
 - [Salman](https://github.com/salfar17)
 - [rizal](https://github.com/rizalriyad3)
 - [Rawi](https://github.com/Rawiraihan82)
 - [Risyad](https://github.com/Risyadreza162) 
 - [Raid](https://github.com/raidriyan1)
+- [Rafan Radi](https://github.com/rafanradi8)
 
 <!-- prettier-ignore-end -->
