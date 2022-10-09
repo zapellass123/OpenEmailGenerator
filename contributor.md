@@ -19,5 +19,6 @@ Open Email Generator
 - [Mhd Arif Budiman](https://github.com/guebanget0?tab=repositories)
 - [Anugerah](https://github.com/syncos77)
 - [Salman](https://github.com/salfar17)
+- [rizal](https://github.com/rizalriyad3)
 
 <!-- prettier-ignore-end -->
