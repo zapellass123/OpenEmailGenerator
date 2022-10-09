@@ -18,5 +18,6 @@ Open Email Generator
 - [Kevin Rivaldo Panggabean](https://github.com/krpauto)
 - [Mhd Arif Budiman](https://github.com/guebanget0?tab=repositories)
 - [Anugerah](https://github.com/syncos77)
+- [Salman](https://github.com/salfar17)
 
 <!-- prettier-ignore-end -->
