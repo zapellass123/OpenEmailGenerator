@@ -27,5 +27,6 @@ Open Email Generator
 - [Raindra](https://github.com/raindra98)
 - [Rafidan](https://github.com/rafifrafidan)
 - [Ghalib Akbar](https://github.com/Alibyze)
+- [Riski](https://github.com/Riskiy890)
 
 <!-- prettier-ignore-end -->
