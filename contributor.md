@@ -20,5 +20,6 @@ Open Email Generator
 - [Anugerah](https://github.com/syncos77)
 - [Salman](https://github.com/salfar17)
 - [rizal](https://github.com/rizalriyad3)
+- [Risyad](https://github.com/Risyadreza162)
 
 <!-- prettier-ignore-end -->
