@@ -37,5 +37,6 @@ Open Email Generator
 - [Budi](https://github.com/Budilanfers)
 - [Fathur](https://github.com/nrathome)
 - [Gbaa5](https://github.com/gabutteam5)
+- [Farna](https://github.com/farnahatafar)
 
 <!-- prettier-ignore-end -->
