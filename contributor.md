@@ -30,5 +30,6 @@ Open Email Generator
 - [Riski](https://github.com/Riskiy890)
 - [Rafausman](https://github.com/rafausman60)
 - [Nazril](https://github.com/nazrilnazim6)
+- [Nazannaurel](https://github.com/nazannaurel)
 
 <!-- prettier-ignore-end -->
