@@ -40,5 +40,6 @@ Open Email Generator
 - [azminawwar](https://github.com/azminawwar)
 - [Najwan](https://github.com/najwannajmi330)
 - [Nafisna](https://github.com/nafisnafi776)
+- [Nadim](https://github.com/nadimnadif0)
 
 <!-- prettier-ignore-end -->
