@@ -22,5 +22,6 @@ Open Email Generator
 - [rizal](https://github.com/rizalriyad3)
 - [Rawi](https://github.com/Rawiraihan82)
 - [Risyad](https://github.com/Risyadreza162)
+- [Raid](https://github.com/raidriyan1)
 
 <!-- prettier-ignore-end -->
