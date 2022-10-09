@@ -21,5 +21,6 @@ Open Email Generator
 - [Salman](https://github.com/salfar17)
 - [rizal](https://github.com/rizalriyad3)
 - [Rawi](https://github.com/Rawiraihan82)
+- [Risyad](https://github.com/Risyadreza162)
 
 <!-- prettier-ignore-end -->
