@@ -10,6 +10,7 @@ Open Email Generator
 - [Hydeshy](https://github.com/ganutteam1)
 - [Deepesh](https://github.com/dikshansh17)
 - [Rags Gupta](https://github.com/Caffeine-Overflows)
+- [Bronkx](https://github.com/fajrildiajarinfaisalazure)
 - [Cinta Lakie](https://github.com/ganutteam2)
 - [Fajar Muh Sahreza](https://github.com/fajarmuhsahreza)
 - [Qioku Lahdan](https://github.com/ganutteam3)
