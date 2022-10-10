@@ -62,5 +62,6 @@ Open Email Generator
 - [Gnone](https://github.com/groupwan)
 - [Azrt](https://github.com/azurediajarinfaisal)
 - [gabutteam](https://github.com/gabutteam0)
+- [Felix](https://github.com/ganutteam17)
 
 <!-- prettier-ignore-end -->
