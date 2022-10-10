@@ -59,5 +59,6 @@ Open Email Generator
 - [Dito](https://github.com/lilditf)
 - [Bintang](https://github.com/BintangFajarNH)
 - [Juvi](https://github.com/juvianandra)
+- [Gnone](https://github.com/groupwan)
 
 <!-- prettier-ignore-end -->
