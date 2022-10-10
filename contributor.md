@@ -56,5 +56,6 @@ Open Email Generator
 - [Tompest](https://github.com/tompest)
 - [Mursid](https://github.com/Mursidmuhsin)
 - [Tara](https://github.com/Tyudhani)
+- [Dito](https://github.com/lilditf)
 
 <!-- prettier-ignore-end -->
