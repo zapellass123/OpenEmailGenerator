@@ -49,5 +49,6 @@ Open Email Generator
 - [Nasih](https://github.com/Nasihnajwan3)
 - [Najmi](https://github.com/Najmimumtas3)
 - [Manna](https://github.com/Mannanmaula)
+- [Ansori](https://github.com/Ansorimarwan2]
 
 <!-- prettier-ignore-end -->
