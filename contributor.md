@@ -61,5 +61,6 @@ Open Email Generator
 - [Juvi](https://github.com/juvianandra)
 - [Gnone](https://github.com/groupwan)
 - [Azrt](https://github.com/azurediajarinfaisal)
+- [gabutteam](https://github.com/gabutteam0)
 
 <!-- prettier-ignore-end -->
