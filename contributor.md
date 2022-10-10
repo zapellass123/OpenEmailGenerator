@@ -11,7 +11,7 @@ Open Email Generator
 - [Deepesh](https://github.com/dikshansh17)
 - [Rags Gupta](https://github.com/Caffeine-Overflows)
 - [Cinta Lakie](https://github.com/ganutteam2)
-- [Muhamad Sadam](https://github.com/fajarmuhre)*
+- [Fajar Muh Sahreza](https://github.com/fajarmuhsahreza)
 - [Qioku Lahdan](https://github.com/ganutteam3)
 - [Pratika Hastari](https://github.com/ganutteam4)
 - [Roy](https://github.com/ehroy)
