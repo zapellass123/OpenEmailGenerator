@@ -57,5 +57,6 @@ Open Email Generator
 - [Mursid](https://github.com/Mursidmuhsin)
 - [Tara](https://github.com/Tyudhani)
 - [Dito](https://github.com/lilditf)
+- [Bintang](https://github.com/BintangFajarNH)
 
 <!-- prettier-ignore-end -->
