@@ -48,5 +48,6 @@ Open Email Generator
 - [Nafina](https://github.com/nafinaqib06)
 - [Nasih](https://github.com/Nasihnajwan3)
 - [Najmi](https://github.com/Najmimumtas3)
+- [Manna](https://github.com/Mannanmaula)
 
 <!-- prettier-ignore-end -->
