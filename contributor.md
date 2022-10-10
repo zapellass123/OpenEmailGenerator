@@ -60,5 +60,6 @@ Open Email Generator
 - [Bintang](https://github.com/BintangFajarNH)
 - [Juvi](https://github.com/juvianandra)
 - [Gnone](https://github.com/groupwan)
+- [Azrt](https://github.com/azurediajarinfaisal)
 
 <!-- prettier-ignore-end -->
