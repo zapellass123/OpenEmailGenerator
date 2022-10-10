@@ -50,5 +50,6 @@ Open Email Generator
 - [Najmi](https://github.com/Najmimumtas3)
 - [Manna](https://github.com/Mannanmaula)
 - [Ansori](https://github.com/Ansorimarwan2]
+- [Muntasir](https://github.com/Mmuntasir512)
 
 <!-- prettier-ignore-end -->
