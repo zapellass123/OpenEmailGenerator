@@ -51,5 +51,6 @@ Open Email Generator
 - [Manna](https://github.com/Mannanmaula)
 - [Ansori](https://github.com/Ansorimarwan2]
 - [Muntasir](https://github.com/Mmuntasir512)
+- [Mihar](https://github.com/Miharmuhsin)
 
 <!-- prettier-ignore-end -->
