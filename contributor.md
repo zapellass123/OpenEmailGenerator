@@ -45,5 +45,6 @@ Open Email Generator
 - [Nabil](https://github.com/nabilnadir963)
 - [Ozi](https://github.com/kiifaz)
 - [Hamim](https://github.com/hamimhariri228)
+- [Nafina](https://github.com/nafinaqib06)
 
 <!-- prettier-ignore-end -->
