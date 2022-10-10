@@ -58,5 +58,6 @@ Open Email Generator
 - [Tara](https://github.com/Tyudhani)
 - [Dito](https://github.com/lilditf)
 - [Bintang](https://github.com/BintangFajarNH)
+- [Juvi](https://github.com/juvianandra)
 
 <!-- prettier-ignore-end -->
