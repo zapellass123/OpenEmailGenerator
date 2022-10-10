@@ -55,5 +55,6 @@ Open Email Generator
 - [Mustofa](https://github.com/Mustofamuslih6)
 - [Tompest](https://github.com/tompest)
 - [Mursid](https://github.com/Mursidmuhsin)
+- [Tara](https://github.com/Tyudhani)
 
 <!-- prettier-ignore-end -->
