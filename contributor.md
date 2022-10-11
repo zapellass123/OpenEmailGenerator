@@ -69,5 +69,6 @@ Open Email Generator
 - [Fajarhal](https://github.com/fatrahaluis)
 - [Majid](https://github.com/majidaji1)
 - [Andaru](https://github.com/XNdruu)
+- [Usra](https://github.com/xsrazy)
 
 <!-- prettier-ignore-end -->
