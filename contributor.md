@@ -31,6 +31,7 @@ Open Email Generator
 - [Riski](https://github.com/Riskiy890)
 - [Rafausman](https://github.com/rafausman60)
 - [Nazril](https://github.com/nazrilnazim6)
+- [Shraddha](https://github.com/gshraddha17)
 - [Nazannaurel](https://github.com/nazannaurel)
 - [Indra](https://github.com/BEASTzINDRA)
 - [Nazra](https://github.com/nazrannazri726)
