@@ -64,5 +64,6 @@ Open Email Generator
 - [Azrt](https://github.com/azurediajarinfaisal)
 - [gabutteam](https://github.com/gabutteam0)
 - [Felix](https://github.com/ganutteam17)
+- [Kevin](https://github.com/rivaldo15)
 
 <!-- prettier-ignore-end -->
