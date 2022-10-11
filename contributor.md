@@ -65,5 +65,6 @@ Open Email Generator
 - [gabutteam](https://github.com/gabutteam0)
 - [Felix](https://github.com/ganutteam17)
 - [Kevin](https://github.com/rivaldo15)
+- [Fajarhal](https://github.com/fatrahaluis)
 
 <!-- prettier-ignore-end -->
