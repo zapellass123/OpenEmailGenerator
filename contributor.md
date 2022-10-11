@@ -66,5 +66,6 @@ Open Email Generator
 - [Felix](https://github.com/ganutteam17)
 - [Kevin](https://github.com/rivaldo15)
 - [Fajarhal](https://github.com/fatrahaluis)
+- [Majid](https://github.com/majidaji1)
 
 <!-- prettier-ignore-end -->
