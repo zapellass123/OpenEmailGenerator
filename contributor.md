@@ -73,5 +73,6 @@ Open Email Generator
 - [Usra](https://github.com/xsrazy)
 - [Arizki](https://github.com/arizkinewbie)
 - [Kelvin](https://github.com/mumuvera)
+- [Andy](https://github.com/therealandy0074)
 
 <!-- prettier-ignore-end -->
