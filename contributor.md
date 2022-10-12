@@ -51,7 +51,7 @@ Open Email Generator
 - [Nasih](https://github.com/Nasihnajwan3)
 - [Najmi](https://github.com/Najmimumtas3)
 - [Manna](https://github.com/Mannanmaula)
-- [Ansori](https://github.com/Ansorimarwan2]
+- [Ansori](https://github.com/Ansorimarwan2)
 - [Muntasir](https://github.com/Mmuntasir512)
 - [Mihar](https://github.com/Miharmuhsin)
 - [Mustofa](https://github.com/Mustofamuslih6)
@@ -70,5 +70,6 @@ Open Email Generator
 - [Majid](https://github.com/majidaji1)
 - [Andaru](https://github.com/XNdruu)
 - [Usra](https://github.com/xsrazy)
-
+- [Arizki](https://github.com/arizkinewbie)
+- 
 <!-- prettier-ignore-end -->
