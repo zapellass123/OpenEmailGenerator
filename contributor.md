@@ -74,5 +74,5 @@ Open Email Generator
 - [Arizki](https://github.com/arizkinewbie)
 - [Kelvin](https://github.com/mumuvera)
 - [Andy](https://github.com/therealandy0074)
-
+- [Raaihan](https://github.com/raaihan)
 <!-- prettier-ignore-end -->
