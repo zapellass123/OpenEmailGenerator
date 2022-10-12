@@ -77,5 +77,6 @@ Open Email Generator
 - [Raaihan](https://github.com/raaihan)
 - [HDJ](https://github.com/Hadeje) 
 - [Alex](https://github.com/jokowhoiam)
+- [Faezal](https://github.com/Blazes05)
 
 <!-- prettier-ignore-end -->
