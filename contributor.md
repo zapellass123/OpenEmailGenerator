@@ -76,5 +76,6 @@ Open Email Generator
 - [Andy](https://github.com/therealandy0074)
 - [Raaihan](https://github.com/raaihan)
 - [HDJ](https://github.com/Hadeje) 
+- [Alex](https://github.com/jokowhoiam)
 
 <!-- prettier-ignore-end -->
