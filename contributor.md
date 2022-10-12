@@ -72,5 +72,6 @@ Open Email Generator
 - [Riya Gupta](https://github.com/Caffeine-Overflows)
 - [Usra](https://github.com/xsrazy)
 - [Arizki](https://github.com/arizkinewbie)
-- 
+- [Kelvin](https://github.com/mumuvera)
+
 <!-- prettier-ignore-end -->
