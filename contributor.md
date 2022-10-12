@@ -78,5 +78,6 @@ Open Email Generator
 - [HDJ](https://github.com/Hadeje) 
 - [Alex](https://github.com/jokowhoiam)
 - [Faezal](https://github.com/Blazes05)
+- [Taufik](https://github.com/Taufikrhrp)
 
 <!-- prettier-ignore-end -->
