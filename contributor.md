@@ -75,4 +75,6 @@ Open Email Generator
 - [Kelvin](https://github.com/mumuvera)
 - [Andy](https://github.com/therealandy0074)
 - [Raaihan](https://github.com/raaihan)
+- [HDJ](https://github.com/Hadeje) 
+
 <!-- prettier-ignore-end -->
