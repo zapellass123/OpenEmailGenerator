@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 Open Email Generator
-
+- [Harry](https://github.com/harryrdn1)
 - [Saputra](https://github.com/Svz1404)
 - [Fajril Pratam](https://github.com/gabutteam18)
 - [Verrnando](https://github.com/gabutteam3b)
