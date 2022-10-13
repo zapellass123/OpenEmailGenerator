@@ -79,5 +79,6 @@ Open Email Generator
 - [Alex](https://github.com/jokowhoiam)
 - [Faezal](https://github.com/Blazes05)
 - [Taufik](https://github.com/Taufikrhrp)
+- [Mahiuddin](https://github.com/mahiuddin-dev)
 
 <!-- prettier-ignore-end -->
