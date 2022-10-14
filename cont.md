@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [FachrullyAxel1404](https://github.com/FachrullyAxel1404)
 - [IslamJulius1404](https://github.com/IslamJulius1404)
 - [HabibaAnton1404](https://github.com/HabibaAnton1404)
 - [syahdanazizITNS](https://github.com/syahdanazizITNS)
