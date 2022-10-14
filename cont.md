@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [RumantiRahardianto1404](https://github.com/RumantiRahardianto1404)
 - [SihombingSyaibatul1404](https://github.com/SihombingSyaibatul1404)
 - [FachrullyAxel1404](https://github.com/FachrullyAxel1404)
 - [IslamJulius1404](https://github.com/IslamJulius1404)
