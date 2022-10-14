@@ -1,5 +1,7 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [NaenggolanRahardianto1404](https://github.com/NaenggolanRahardianto1404)
+- 
 - [putra1](https://github.com/SaputraZulfi1404)
 - [putra2](https://github.com/DanielaArrivalda1404)
 - [putra3](https://github.com/HidayatullahLintang1404)
