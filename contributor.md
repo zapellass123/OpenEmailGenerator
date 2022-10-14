@@ -22,7 +22,7 @@ Open Email Generator
 - [Salman](https://github.com/salfar17)
 - [rizal](https://github.com/rizalriyad3)
 - [Rawi](https://github.com/Rawiraihan82)
-- [Risyad](https://github.com/Risyadreza162) 
+- [Risyad](https://github.com/Risyadreza162)
 - [Raid](https://github.com/raidriyan1)
 - [Rafan Radi](https://github.com/rafanradi8)
 - [Raindra](https://github.com/raindra98)
@@ -75,10 +75,11 @@ Open Email Generator
 - [Kelvin](https://github.com/mumuvera)
 - [Andy](https://github.com/therealandy0074)
 - [Raaihan](https://github.com/raaihan)
-- [HDJ](https://github.com/Hadeje) 
+- [HDJ](https://github.com/Hadeje)
 - [Alex](https://github.com/jokowhoiam)
 - [Faezal](https://github.com/Blazes05)
 - [Taufik](https://github.com/Taufikrhrp)
 - [Mahiuddin](https://github.com/mahiuddin-dev)
+- [Athul Joy](https://github.com/iathul)
 
 <!-- prettier-ignore-end -->
