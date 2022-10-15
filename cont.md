@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [LouellaDarian](https://github.com/LouellaDarian)
 - [TressaKimmie](https://github.com/TressaKimmie)
 - [DeedeeEtom](https://github.com/DeedeeEtom)
 - [LinzyDanby](https://github.com/LinzyDanby)
