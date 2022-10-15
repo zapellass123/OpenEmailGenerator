@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [SeptianiFauzan1404](https://github.com/SeptianiFauzan1404)
 - [SaliChaerul1404](https://github.com/SaliChaerul1404)
 - [AdityaFiras1404](https://github.com/AdityaFiras1404)
 - [AndriawanAllen1404](https://github.com/AndriawanAllen1404)
