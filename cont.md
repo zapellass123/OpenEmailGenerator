@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [KusumaJulius1404](https://github.com/KusumaJulius1404)
 - [PrasojoAnas1404](https://github.com/PrasojoAnas1404)
 - [AimanOmar1404](https://github.com/AimanOmar1404)
 - [AnasOgie1404](https://github.com/AnasOgie1404)
