@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [DeedeeEtom](https://github.com/DeedeeEtom)
 - [LinzyDanby](https://github.com/LinzyDanby)
 - [ChastityCavan](https://github.com/ChastityCavan)
 - [JanisCottle](https://github.com/JanisCottle)
