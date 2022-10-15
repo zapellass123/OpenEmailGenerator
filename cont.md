@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [Lucille.Brackely65104](https://github.com/Lucille.Brackely65104)
 - [Leia.Firmin51103](https://github.com/Leia.Firmin51103)
 - [KusumaJulius1404](https://github.com/KusumaJulius1404)
 - [PrasojoAnas1404](https://github.com/PrasojoAnas1404)
