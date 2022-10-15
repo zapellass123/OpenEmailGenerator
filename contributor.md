@@ -82,5 +82,6 @@ Open Email Generator
 - [Taufik](https://github.com/Taufikrhrp)
 - [Mahiuddin](https://github.com/mahiuddin-dev)
 - [Athul Joy](https://github.com/iathul)
+- [Sam](https://github.com/starsaminf)
 
 <!-- prettier-ignore-end -->
