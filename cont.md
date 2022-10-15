@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [ChastityCavan](https://github.com/ChastityCavan)
 - [JanisCottle](https://github.com/JanisCottle)
 - [hasnahmarwah](https://github.com/hasnahmarwah)
 - [RafEhrman](https://github.com/RafEhrman)
