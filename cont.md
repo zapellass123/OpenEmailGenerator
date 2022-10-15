@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [LyssaTarrant](https://github.com/LyssaTarrant)
 - [CissieeRamona](https://github.com/CissieeRamona)
 - [SeliaWillie](https://github.com/SeliaWillie)
 - [DottyGaspard](https://github.com/DottyGaspard)
