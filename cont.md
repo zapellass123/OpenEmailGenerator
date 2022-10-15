@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [JanisCottle](https://github.com/JanisCottle)
 - [hasnahmarwah](https://github.com/hasnahmarwah)
 - [RafEhrman](https://github.com/RafEhrman)
 - [Adore.Tayib41107](https://github.com/Adore.Tayib41107)
