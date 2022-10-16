@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [CharissaTaam](https://github.com/CharissaTaam)
 - [EllettePeonir](https://github.com/EllettePeonir)
 - [GeriannaLedah](https://github.com/GeriannaLedah)
 - [MahaliaNerita](https://github.com/MahaliaNerita)
