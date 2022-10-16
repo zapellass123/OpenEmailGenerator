@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [SindeeAnestassia](https://github.com/SindeeAnestassia)
 - [FayreKatrine](https://github.com/FayreKatrine)
 - [benewfeeneyew](https://github.com/benewfeeneyew)
 - [CordiTatianas](https://github.com/CordiTatianas)
