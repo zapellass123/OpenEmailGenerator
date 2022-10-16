@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [JaclynGenna](https://github.com/JaclynGenna)
 - [CecileDimitris](https://github.com/CecileDimitris)
 - [EsmeraldaAmmann](https://github.com/EsmeraldaAmmann)
 - [SindeeAnestassia](https://github.com/SindeeAnestassia)
