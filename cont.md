@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [ShellTalia](https://github.com/ShellTalia)
 - [MelisentEsmaria](https://github.com/MelisentEsmaria)
 - [KrystleDimitris](https://github.com/KrystleDimitris)
 - [KerrinFitzsimmons](https://github.com/KerrinFitzsimmons)
