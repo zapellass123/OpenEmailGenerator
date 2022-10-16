@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [EstellFerino](https://github.com/EstellFerino)
 - [FlorieBeniamino](https://github.com/FlorieBeniamino)
 - [MarieleDahlia](https://github.com/MarieleDahlia)
     - [LennaViddah](https://github.com/LennaViddah)
