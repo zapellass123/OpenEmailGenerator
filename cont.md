@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [ElenaSophronia](https://github.com/ElenaSophronia)
 - [MoynaLumbard](https://github.com/MoynaLumbard)
 - [MaridelOdysseus](https://github.com/MaridelOdysseus)
 - [LinetJohanna](https://github.com/LinetJohanna)
