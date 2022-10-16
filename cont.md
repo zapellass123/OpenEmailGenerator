@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [CordiTatianas](https://github.com/CordiTatianas)
 - [RoselineHaymes](https://github.com/RoselineHaymes)
 - [EugineShuler](https://github.com/EugineShuler)
 - [DennieGeorgy](https://github.com/DennieGeorgy)
