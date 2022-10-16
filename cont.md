@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [GeriannaLedah](https://github.com/GeriannaLedah)
 - [MahaliaNerita](https://github.com/MahaliaNerita)
 - [sandipppp](https://github.com/sandipppp)
 - [LyssaTarrant](https://github.com/LyssaTarrant)
