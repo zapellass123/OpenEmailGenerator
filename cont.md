@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [MarySabella](https://github.com/MarySabella)
 - [JulianeDeegan](https://github.com/JulianeDeegan)
 - [KajaWaldron](https://github.com/KajaWaldron)
 - [JeannaStav](https://github.com/JeannaStav)
