@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [TeraDimitris](https://github.com/TeraDimitris)
 - [CyndieGilbertson](https://github.com/CyndieGilbertson)
 - [JeannaBronk](https://github.com/JeannaBronk)
 - [EstellFerino](https://github.com/EstellFerino)
