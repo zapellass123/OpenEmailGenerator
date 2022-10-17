@@ -83,5 +83,6 @@ Open Email Generator
 - [Mahiuddin](https://github.com/mahiuddin-dev)
 - [Athul Joy](https://github.com/iathul)
 - [Sam](https://github.com/starsaminf)
+- [Rakshita](https://github.com/Rakshita2003)
 
 <!-- prettier-ignore-end -->
