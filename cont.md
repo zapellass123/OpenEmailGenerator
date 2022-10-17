@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [azamiazhar](https://github.com/azamiazhar)
 - [RaniSophronia](https://github.com/RaniSophronia)
 - [JanisKnowling](https://github.com/JanisKnowling)
 - [BabitaTorray](https://github.com/BabitaTorray)
