@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [CorenePozzy](https://github.com/CorenePozzy)
 - [CuteCatCrying](https://github.com/CuteCatCrying)
 - [MolliRillings](https://github.com/MolliRillings)
 - [BethUund](https://github.com/BethUund)
