@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [CathieRona](https://github.com/CathieRona)
 - [HayleyDorothy](https://github.com/HayleyDorothy)
 - [BibbyYate](https://github.com/BibbyYate)
 - [ModestiaKaete](https://github.com/ModestiaKaete)
