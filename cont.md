@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [DesiraeAzeria](https://github.com/DesiraeAzeria)
 - [GwynethEiser](https://github.com/GwynethEiser)
 - [BobbiLaRue](https://github.com/BobbiLaRue)
 - [ImojeanLinehan](https://github.com/ImojeanLinehan)
