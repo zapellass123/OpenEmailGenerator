@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [BobbiLaRue](https://github.com/BobbiLaRue)
 - [ImojeanLinehan](https://github.com/ImojeanLinehan)
 - [SadieBord](https://github.com/SadieBord)
 - [CybDreda](https://github.com/CybDreda)
