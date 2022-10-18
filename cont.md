@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [BibbyYate](https://github.com/BibbyYate)
 - [ModestiaKaete](https://github.com/ModestiaKaete)
 - [LitaDamarra](https://github.com/LitaDamarra)
 - [ConcettinaSecrest](https://github.com/ConcettinaSecrest)
