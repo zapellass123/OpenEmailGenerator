@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [HelenaKermit](https://github.com/HelenaKermit)
 - [CorlyJoachim](https://github.com/CorlyJoachim)
 - [ChristianWaldron](https://github.com/ChristianWaldron)
 - [ImojeanMuriel](https://github.com/ImojeanMuriel)
