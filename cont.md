@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [SadieBord](https://github.com/SadieBord)
 - [CybDreda](https://github.com/CybDreda)
 - [CathieRona](https://github.com/CathieRona)
 - [HayleyDorothy](https://github.com/HayleyDorothy)
