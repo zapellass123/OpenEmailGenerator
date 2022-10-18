@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [VonnyFredi](https://github.com/VonnyFredi)
 - [HettieCloris](https://github.com/HettieCloris)
 - [LeonaRooney](https://github.com/LeonaRooney)
 - [DesiraeAzeria](https://github.com/DesiraeAzeria)
