@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [LitaDamarra](https://github.com/LitaDamarra)
 - [ConcettinaSecrest](https://github.com/ConcettinaSecrest)
 - [AnnMarieDuwalt](https://github.com/AnnMarieDuwalt)
 - [DolliAlice](https://github.com/DolliAlice)
