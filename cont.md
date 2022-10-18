@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [LeonaRooney](https://github.com/LeonaRooney)
 - [DesiraeAzeria](https://github.com/DesiraeAzeria)
 - [GwynethEiser](https://github.com/GwynethEiser)
 - [BobbiLaRue](https://github.com/BobbiLaRue)
