@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [DolliAlice](https://github.com/DolliAlice)
 - [BarbaraJaylene](https://github.com/BarbaraJaylene)
 - [PieretteObed](https://github.com/PieretteObed)
 - [HelenaKermit](https://github.com/HelenaKermit)
