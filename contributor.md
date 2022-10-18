@@ -59,6 +59,7 @@ Open Email Generator
 - [Tompest](https://github.com/tompest)
 - [Mursid](https://github.com/Mursidmuhsin)
 - [Tara](https://github.com/Tyudhani)
+- [Aniket](https://github.com/aniket-surjey)
 - [Dito](https://github.com/lilditf)
 - [Bintang](https://github.com/BintangFajarNH)
 - [Juvi](https://github.com/juvianandra)
