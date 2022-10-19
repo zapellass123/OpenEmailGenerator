@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [Dimitrisetyawan](https://github.com/Dimitrisetyawan)
 - [GertrudStover](https://github.com/GertrudStover)
 - [VonnyFredi](https://github.com/VonnyFredi)
 - [HettieCloris](https://github.com/HettieCloris)
