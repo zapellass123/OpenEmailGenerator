@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 50px;
+    cursor: pointer;
+    margin: 30px 0;
+}
+.menu-icon{
+    width: 25px;
+    cursor: pointer;
+    display: none;
+}
+nav{
+    flex: 1;
+    text-align: right;
+
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(7, 6, 6);
+    font-size: 14px;
+}
+nav ul li a:hover{
+    color:red ;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 150px 0;
+}
+.col-1{
+    flex-basis: 40%;
+    position: relative;
+    margin-left: 50px;
+}
+.col-2 h2{
+    font-size: 54px;
+}
+.col-1 h3{
+    font-size: 30px;
+    color:#707070;
+    font-weight: 100;
+    margin: 20px 0 10px;
+}
+.col-1 h4{
+    font-size: 16px;
+    color: #000000;
+    font-weight: 100;
+    margin: 30px 0;
+    font-size: 20px;
+}
+button{
+    width: 140px;
+    border: 0;
+    padding: 12px 10px;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to right, #fb5283, #ff3527);
+    border-radius:6px;
+    cursor: pointer;
+    transition: width 0.5s;
+}
+button img{
+    width: 30px;
+    display: none;
+}
+button:hover img{
+    display: block;
+}
+button:hover{
+    width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.col-1::after{
+    content: ' ';
+    width: 10px;
+    height: 57%;
+    background: linear-gradient(#ff6897 #ff8680);
+    position: absolute;
+    left:  -40px;
+    top:8px
+}
+.col-2{
+    position: relative;
+    flex-basis: 60%;
+    display: flex;
+    align-items: center;
+}
+.controller{
+    width: 90%;
+}
+.color-box{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    background: linear-gradient(#ff54a2, #ff757a);
+    border-radius: 20px 0 0 20px;
+    height: 100%;
+    width: 80%;
+    z-index: -1;
+    transform: translateX(150px);
+}
+.add-btn{
+    width: 85px;
+    margin-bottom: 5px;
+}
+.add-btn{
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+}
+.social-name img{
+    height:13px;
+    margin: 20px;
+    cursor: pointer;
+    
+}
+.social-name{
+    text-align: center;
+}
+@media only screen and (max-width:700px){
+    nav ul{
+        width: 100%;
+        background-color: #ff3527;
+        position: absolute;
+        top:85px;
+        right: 0;
+        z-index: 2;
+    }
+    nav ul li{
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+
+    }
+    nav ul li a{
+        color:#fff;
+    }
+    .menu-icon{
+        display: block;
+    }
+    #menulist{
+        overflow:hidden ;
+        transition: 0.5s;
+    }
+}
