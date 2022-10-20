@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories
+- [azrulrochmadrifai](https://github.com/azrulrochmadrifai)
 - [azrulrifai](https://github.com/azrulrifai)
 - [Dimitrisetyawan](https://github.com/Dimitrisetyawan)
 - [GertrudStover](https://github.com/GertrudStover)
