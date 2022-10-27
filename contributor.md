@@ -63,6 +63,7 @@ Open Email Generator
 - [Aniket](https://github.com/aniket-surjey)
 - [Dito](https://github.com/lilditf)
 - [Bintang](https://github.com/BintangFajarNH)
+- [sanishroxx](https://github.com/sanishroxx)
 - [Juvi](https://github.com/juvianandra)
 - [Gnone](https://github.com/groupwan)
 - [Azrt](https://github.com/azurediajarinfaisal)
